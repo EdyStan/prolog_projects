@@ -1,6 +1,6 @@
 # Knowledge Representation and Reasoning
 
-This project includes the implementation in Prolog of several key concepts of Knowledge Representation and Reasoning, such as:
+This project includes the implementation in Prolog of several key algorithms of Knowledge Representation and Reasoning, such as:
 
 - Reasoning Algorithm (`reasoning.pl`).
 - SAT solver - the Davis Putnam procedure (`sat.pl`).
