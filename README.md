@@ -7,4 +7,4 @@ This project includes the implementation in Prolog of several key concepts of Kn
 - Forward and Backward chaining.
 - Defuzzification.
 
-A comprehensive description of the approaches is drawn in files `Documentation_1` and `Documentation_2`.
+A comprehensive description of the approaches is drawn in files `Documentation_1.pdf` and `Documentation_2.pdf`.
