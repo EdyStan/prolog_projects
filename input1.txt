@@ -1,0 +1,1 @@
+[[n(is_altruistic), n(finished_medicine), is_medic], [n(is_medic), n(connects_well_with_children), is_pediatrician], [n(helps_people), is_altruistic], [n(is_kind), n(is_playful), connects_well_with_children], [n(is_empathetic), is_kind]].
